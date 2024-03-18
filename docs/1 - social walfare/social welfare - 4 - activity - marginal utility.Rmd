@@ -1,0 +1,26 @@
+---
+title: "social welfare - 4 - activity - marginal utility"
+author: "Jorge Fábrega"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+## Introduction:  
+This exercise aims to illustrate the relationship between cardinality, ordinality and marginal utility of income.
+
+## Problem Statement:  
+The local government is contemplating the construction of a new highway. This project is expected to bring economic benefits to some residents (Group A) by improving access to jobs and services. However, it will negatively impact others (Group B) by leading to the loss of homes and increased pollution. There are 300 people in Group A and 200 people in Group B. Assume the following:  
+
+Each person in Group A gains utility worth 40 units from the highway construction.  
+Each person in Group B loses utility worth 50 units due to the highway construction.  
+
+Initially, assume that the marginal utility of income is identical for both groups, therefore the values 40 and 50 are strictly comparable.  
+
+## Questions:  
+1. Calculate the total utility gain for Group A and the total utility loss for Group B based on the provided utility values and group sizes.  
+2. Determine the net social utility of the highway construction. What does this result suggest about proceeding with the project under the assumption of equal marginal utility for both groups?  
+3. Now, let reflect on the concept of the marginal utility of income and its relevance in public policy. Initially, we assumed that the marginal utility of income is the same for both groups. Now, consider a different assumption: the marginal utility of income for Group B (low-income residents) is higher than for Group A (high-income individuals). Without specifying the exact difference, discuss how this could change the aggregation of individual utilities into a social welfare function. What additional information would you need to accurately adjust the social welfare calculation under this new assumption?  
+4. Let assume that you can measure and compare the marginal utility of each group and that you know that the marginal utility of income is decreasing. How much has the marginal utility of the poorer be to revert the decision made in question 2?   
+5. How does acknowledging the differences in marginal utility between the groups alter your perspective on the project's value?  
+6. Imagine that you are a social planner who is looking for maximizing Group A plus Group B wellbeing. Propose and justify alternative criteria or measures that could be used to evaluate the highway construction project, considering both efficiency and fairness. How do these alternatives compare to the initial utility-based approach?   
+
